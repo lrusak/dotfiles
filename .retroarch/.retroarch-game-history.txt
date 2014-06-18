@@ -1,0 +1,15 @@
+/home/lukas/Downloads/Super Metroid (Japan, USA) (En,Ja).zip
+/usr/local/lib/libretro/snes9x_next_libretro.so
+SNES9x Next
+/mnt/tank/random/roms/snes/super mario rpg/Super Mario RPG - Legend of the Seven Stars (USA).sfc
+/usr/local/lib/libretro/snes9x_next_libretro.so
+SNES9x Next
+/mnt/tank/random/roms/ps1/Resident Evil Directors Cut/SLUS_005.51.bin
+/usr/local/lib/libretro/pcsx_rearmed_libretro.so
+PCSX-ReARMed
+/mnt/tank/random/roms/ps1/Vigilante 8 - 2nd Offense [U] [SLUS-00868]/Vigilante 8 - 2nd Offensive [U] [SLUS-00868]/Vigilante 8 - 2nd Offensive [U] [SLUS-00868].bin
+/usr/local/lib/libretro/pcsx_rearmed_libretro.so
+PCSX-ReARMed
+/mnt/lukesNAS/random/roms/snes/super metroid/Super Metroid (Japan, USA) (En,Ja).sfc
+/usr/local/lib/libretro/snes9x_next_libretro.so
+SNES9x Next
