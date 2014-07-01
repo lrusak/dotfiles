@@ -1,6 +1,9 @@
 %_signature gpg
 %_gpg_name  Lukas Rusak
 
+%_arch			x86_64
+%_build_arch		x86_64
+
 %_topdir %(echo $HOME)/rpmbuild
 
 %_smp_mflags %( \

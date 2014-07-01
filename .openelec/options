@@ -6,7 +6,7 @@
   UPNP_SUPPORT="no"
   HFSTOOLS="no"
   DISPLAYSERVER="wayland-weston"
-  GRAPHIC_DRIVERS="nouveau r300 r600 radeonsi"
+  GRAPHIC_DRIVERS="r300 r600 radeonsi nouveau"
   CRYSTALHD="no"
   CEC_SUPPORT="no"
   LCD_DRIVER="none"

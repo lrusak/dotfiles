@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=XChat
+GenericName=IRC Client
+Comment=Chat with other people using Internet Relay Chat
+Exec=xchat
+Icon=xchat
+Terminal=false
+Type=Application
+Categories=Network;IRCClient;GTK;
+StartupNotify=true
+X-Desktop-File-Install-Version=0.21
+X-XFCE-Source=file:///usr/share/applications/xchat.desktop
