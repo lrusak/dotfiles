@@ -1,7 +1,7 @@
 %_signature gpg
 %_gpg_name  Lukas Rusak
 
-%_arch			x86_64
+#%_arch			x86_64
 %_build_arch		x86_64
 
 %_topdir %(echo $HOME)/rpmbuild
@@ -22,3 +22,7 @@
     [ "%{buildarch}" = "noarch" ] || QA_CHECK_RPATHS=1 ; \
     case "${QA_CHECK_RPATHS:-}" in [1yY]*) /usr/lib/rpm/check-rpaths ;; esac \
     /usr/lib/rpm/check-buildroot
+
+%configure \
+	CFLAGS="${CFLAGS:-march=corei7-avx -O3 -pipe}" ; export CFLAGS ; \
+	CXXFLAGS="${CXXFLAGS:-march=corei7-avx -O3 -pipe}" ; export CXXFLAGS ; \
